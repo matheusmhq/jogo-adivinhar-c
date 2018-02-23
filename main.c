@@ -1,4 +1,5 @@
 /*
+    Jogo da Adivinhação
     Codigo desenvolvido por Matheus Henrique
     Linguagem C
     Usando CodeBlocks v 17.12
