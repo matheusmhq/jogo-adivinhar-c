@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519389027 source:c:\users\usuario\documents\projetos c\jogo da adivinhação\jogo da adivinhação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
