@@ -1,4 +1,4 @@
-# Programa feito em Linguagem C
+# Jogo da Adivinhação
 
 Algoritmo desenvolvido para fins de estudos.
 
